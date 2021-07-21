@@ -1,2 +1,3 @@
 # Bible
-Bible Scrapper
+Bible Book Scrapper
+from bible.optina.ru
